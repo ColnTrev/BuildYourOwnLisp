@@ -1,3 +1,6 @@
+
+// Code for chapter 6 on Parsing
+// by Collin Gordon
 #include <editline/readline.h>
 #include <editline/history.h>
 #include "mpc.h"

@@ -1,3 +1,5 @@
+// Code for chapter 4
+// by Collin Gordon
 #include <stdio.h>
 #include <stdlib.h>
 #include "mpc.h"
